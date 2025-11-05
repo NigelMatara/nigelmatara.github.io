@@ -1,4 +1,4 @@
-vanon portfolio for personal and commercial use. Designed with ♥️ and creativity by vanon
+vanon portfolio for personal and commercial use. Designed with ♥️ and creativity by Nigel
 
 Product Page: https://vanon.raralwavessolutions.co.ke
 
@@ -16,3 +16,4 @@ Credits:
 		Bootstrap Affix: 	(http://getbootstrap.com/javascript/#affix)  
 		Isotope: 			(https://isotope.metafizzy.co/) 
 		Google Maps:		(https://maps.google.com)
+
