@@ -17,4 +17,3 @@ Credits:
 		Isotope: 			(https://isotope.metafizzy.co/) 
 		Google Maps:		(https://maps.google.com)
 
-
